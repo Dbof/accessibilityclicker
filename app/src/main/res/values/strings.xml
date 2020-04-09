@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityClicker</string>
+    <string name="accessibility_service_label">ClickerService</string>
+</resources>
